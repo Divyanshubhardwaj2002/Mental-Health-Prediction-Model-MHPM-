@@ -1,8 +1,8 @@
 # Mental-Health-Prediction-Model-MHPM-
 <br>
-trained & created- JULY/2024
+MODEL TRAINED & CREATED- JULY/2024
 <br>
-Uploaded in gitHub Repository -JUNE/2025
+MODEL UPLODED IN GITHUB REPOSITORY- JUNE/2025
 <h3>>Mental Health Prediction Model is machine learning based prediction model for Examine the higher side possibility of mental health.</h3
 <br>
 Mental health (MH) is a pressing global concern, closely tied to anxiety, depression, and even fatal outcomes. The complex interplay between an individual's personal, social, and economic circumstances has a profound impact on their mental wellbeing. This research aims to leverage Deep Learning and AI-ML algorithms to accurately assess an individual's mental health. By developing a predictive model that integrates AI-driven analytics and ML-based algorithms, this research work seeks to identify early warning signs of mental health issues and inform data-driven interventions. The ultimate goal is to ensure the safety and wellbeing of individuals by providing a proactive and personalized approach to mental health management, thereby reducing the risk of adverse outcomes. 
